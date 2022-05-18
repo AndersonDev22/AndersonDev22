@@ -4,7 +4,7 @@
 Sou apaixonado pela área de tecnologia da informação, estou em constante aprendizado, capacitação, buscando conhecimentos a cada dia para me tornar um profissional melhor.</br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.dev22/)
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.instagram.com/anderson.dev22/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-anderson-11b097220/)
 
 ![Luiz Anderson GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonDev22&show_icons=true&theme=tokyonight)
 ![Luiz Anderson GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonDev22&theme=blue-green)
