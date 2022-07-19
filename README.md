@@ -1,7 +1,7 @@
 ### Olá! Eu sou Luiz Anderson - Desenvolvedor Fron-End</br>
 
 
-Sou apaixonado pela área de tecnologia da informação, estou em constante aprendizado, capacitação, buscando conhecimentos a cada dia para me tornar um profissional melhor.</br>
+sou um profissional versátil e apaixonado pela área de tecnologia, com histórico extenso e consistente de determinação, foco, competência, visando sempre trazer melhorias e inovações para a empresa, conto com excelentes habilidades de comunicação, trabalho em equipe, resolução de problemas e proatividade estou sempre disposto a aprender algo novo e superar grandes desafios. Busco constantemente capacitação para melhor exercer minhas habilidades. Possuo experiência em React.JS, React Hooks, Contex API, API REST, Next.JS, HTML5, CSS3, Javascript, Typescript, Styled-components, Storybook, TailwindCss. Me capacitando em NodeJS, Mysql, Graphcms – GraphQL entre outras tecnologias.</br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/anderson.dev22/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-anderson-11b097220/)
