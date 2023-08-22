@@ -1,4 +1,4 @@
-### Olá! Eu sou Luiz Anderson - Desenvolvedor Fron-End</br>
+### Olá! Eu sou Luiz Anderson - Desenvolvedor Front-End</br>
 
 
 sou um profissional versátil e apaixonado pela área de tecnologia, com histórico extenso e consistente de determinação, foco, competência, visando sempre trazer melhorias e inovações para a empresa, conto com excelentes habilidades de comunicação, trabalho em equipe, resolução de problemas e proatividade estou sempre disposto a aprender algo novo e superar grandes desafios. Busco constantemente capacitação para melhor exercer minhas habilidades. Possuo experiência em React.JS, React Hooks, Contex API, API REST, Next.JS, HTML5, CSS3, Javascript, Typescript, Styled-components, Storybook, TailwindCss. Me capacitando em NodeJS, Mysql, Graphcms – GraphQL entre outras tecnologias.</br>
